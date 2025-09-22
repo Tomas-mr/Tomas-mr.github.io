@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am **Rui Meng**, a first-year Ph.D. student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Xinyu Chen](https://soldierchen.github.io/). My current research focuses on **large language model acceleration**.  
 
-Before joining HKUST(GZ), I received my **M.Sc. degree** from the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn) and the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn). My previous research interests included **computer architecture and SmartNIC/Data Processing Units**. During my master's studies, I was advised by [Prof. Guihai Yan](https://scholar.google.com/citations?user=yJLnv4QAAAAJ) at the [State Key Laboratory of Processors (SKLP)](https://sklp.ict.ac.cn), ICT, CAS.
+Before joining HKUST(GZ), I received my **M.E. degree** from the [Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn) and the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn). My previous research interests included **computer architecture and SmartNIC/Data Processing Units**. During my master's studies, I was advised by [Prof. Guihai Yan](https://scholar.google.com/citations?user=yJLnv4QAAAAJ) at the [State Key Laboratory of Processors (SKLP)](https://sklp.ict.ac.cn), ICT, CAS.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
@@ -42,8 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2025.09 - now*, pursue the Ph.D in Microelectronics, The Hong Kong University of Science and Technology (Guangzhou). 
-- *2022.09 - 2025.06*, M.S. in Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences.
-- *2018.09 - 2022.06*, B.S. in Computer Science and Technology, National University of Defense and Technology.
+- *2022.09 - 2025.06*, M.E. in Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences.
+- *2018.09 - 2022.06*, B.E. in Computer Science and Technology, National University of Defense and Technology.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
