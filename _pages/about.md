@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564)
+<!-- - ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) -->
 
 
 # 📖 Educations
