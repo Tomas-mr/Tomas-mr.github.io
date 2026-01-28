@@ -35,9 +35,9 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <!-- - ***Li, Jindong***, Tenglong Li, Guobin Shen, Dongcheng Zhao, Qian Zhang, and Yi Zeng. "Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines." In 2024 34th International Conference on Field-Programmable Logic and Applications (FPL), pp. 197-203. IEEE, 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/document/10705564) -->
-- **Rui Meng**, Xinyu Chen, Hanyue Lin, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. "Hermes: Accelerating Packet Processing in DPU with Neural Network." Accepted at IEEE ICCD 2025.
+- **Rui Meng**, Xinyu Chen, Hanyue Lin, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. "Hermes: Accelerating Packet Processing in DPU with Neural Network." IEEE 43rd International Conference on Computer Design (ICCD). 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/11310956)
 - Haishuang Fan, **Rui Meng**, Qichu Sun, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. "GRACE: An End-to-End Graph Processing Accelerator on FPGA with Graph Reordering Engine." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2025). 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10939011)
-- Qichu Sun=, **Rui Meng=**, Haishuang Fan, Fangqiang Ding, Linxi Lu, Jingya Wu, Xiaowei Li, Guihai Yan. "APTO: Accelerating Serialization-Based Point Cloud Transformers with Position-Aware Pruning." 30th Asia and South Pacific Design Automation Conference(ASP-DAC), 2025. 🔗[[ACM]](https://dl.acm.org/doi/pdf/10.1145/3658617.3697655)
+- Qichu Sun=, **Rui Meng=**, Haishuang Fan, Fangqiang Ding, Linxi Lu, Jingya Wu, Xiaowei Li, Guihai Yan. "APTO: Accelerating Serialization-Based Point Cloud Transformers with Position-Aware Pruning." 30th Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. 🔗[[ACM]](https://dl.acm.org/doi/pdf/10.1145/3658617.3697655)
 - Haishuang Fan, **Rui Meng**, Qichu Sun, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. "AMST: Accelerating Large-Scale Graph Minimum Spanning Tree Computation on FPGA." International Parallel and Distributed Processing Symposium (IPDPS), 2024. 🔗[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10579230)
 
 # 📖 Educations
